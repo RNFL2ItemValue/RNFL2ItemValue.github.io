@@ -47,8 +47,9 @@
 
 - **23** Neon Red Visor [Elite] [<font color="red">RARE</font>]
 
+- **24** Tribal Rose Tattoo [Gold] [<font color="red">RARE</font>]
 
-
+- **25** The Vortex Helmet [Elite] [<font color="red">RARE</font>]
 
 
 
