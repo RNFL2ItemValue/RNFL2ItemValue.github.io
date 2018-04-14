@@ -43,5 +43,6 @@ The score goes from 1 to 5, 1 is bad, 5 is good, Rated in order of the most desi
 | Neon Orange Visor                       |      5      |        2       | Elite |       |
 | Tribal Rose Tattoo                      |      4      |        3       | Gold  |       |
 | Half Sleeve                             |      5      |        5       | Silver|**Most Valuable Silver**|
+| IAv_vAI                                 |      1      |        1       | Gold  |**Least Valuable Hero**|
 
 
