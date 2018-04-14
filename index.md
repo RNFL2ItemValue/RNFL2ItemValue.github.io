@@ -5,7 +5,7 @@
 
 **Note: All of these Items are highly sought after and can be listed in many different orders, This is just my personal opinion.**
 
-Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
+The score goes from 1 to 5, 1 is bad, 5 is good.
 =============================================================
 |                                         |   Rarity    |     Desire     | Base. | Notes |
 | --------------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
