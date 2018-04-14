@@ -19,7 +19,7 @@ The score goes from 1 to 5, 1 is bad, 5 is good, Rated in order of the most desi
 | Nike HT White Neon                      |      4      |        4       | Elite |       |
 | Neon Yellow Visor                       |      4      |        5       | Elite |       |
 | Beast Mode                              |      5      |        3       | Elite |       |
-| Neon Yellow Mouth-Piece                 |      5      |        5       | Gold  |       |
+| Neon Yellow Mouth-Piece                 |      4      |        3       | Gold  |       |
 | Dragon Tattoo                           |      4      |        4       | Gold  |       |
 | The Crusher                             |      5      |        2       | Elite |       |
 | Seahawks Color Rush                     |      3      |        5       | Elite |       |
