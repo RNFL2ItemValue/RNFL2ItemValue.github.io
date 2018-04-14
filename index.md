@@ -4,7 +4,7 @@
 Listed From Most Valuable to least. (Although all items on this list are highly sought after)
 # Items
 
-- **1 Neon Rainbow Visor [Elite] [Most Valuable Visor.]
+- 1 Neon Rainbow Visor [Elite] [Most Valuable Visor.]
 - 2 Blizzard Beast Mode [Elite] [Most Valuable Face.]
 - 3 RAINBOW! Visor [Elite]
 - 4 Bape Mouth-Piece [Elite] [Most Valuable Mouth-Piece.]
@@ -21,5 +21,3 @@ Listed From Most Valuable to least. (Although all items on this list are highly 
 
 
 
-
-**
