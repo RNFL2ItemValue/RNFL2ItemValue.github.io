@@ -9,22 +9,22 @@ The score goes from 1 to 5, 1 is bad, 5 is good, Rated in order of the most desi
 =============================================================
 |                                         |   Rarity    |     Desire     | Base  | Notes |
 | --------------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
-| Neon Rainbow Visor                      |      5      |        5       | Elite |**interchangeable**|
-| Beast Mode Blizzard                     |      5      |        5       | Elite |**interchangeable**|
+| Neon Rainbow Visor                      |      5      |        5       | Elite |**Most Valuable Item(s)**|
+| Beast Mode Blizzard                     |      5      |        5       | Elite |**Most Valuable Item(s)**|
 | Rainbow! Visor                          |      5      |        4       | Elite |       |
-| Gronk Spike                             |      5      |        5       | Elite |       |
-| Wolf Tattoo                             |      5      |        4       | Elite |       |
-| Bape Mouthguard                         |      4      |        5       | Elite |       |
-| Full Sleeve                             |      5      |        5       | Elite |       |
-| Nike HT White Neon                      |      4      |        4       | Elite |       |
+| Gronk Spike                             |      5      |        5       | Elite |**Most Valuable Animation**|
+| Wolf Tattoo                             |      5      |        4       | Elite |**Most Valuable Tattoo**|
+| Bape Mouthguard                         |      4      |        5       | Elite |**Most Valuable MouthGuard**|
+| Full Sleeve                             |      5      |        5       | Elite |**Most Valuable Sleeve**|
+| Nike HT White Neon                      |      4      |        4       | Elite |**Most Valuable Cleat**|
 | Neon Yellow Visor                       |      4      |        5       | Elite |       |
 | Beast Mode                              |      5      |        4       | Elite |       |
-| Neon Yellow Mouth-Piece                 |      4      |        3       | Gold  |       |
+| Neon Yellow Mouth-Piece                 |      4      |        3       | Gold  |**Most Valuable Gold**|
 | Dragon Tattoo                           |      4      |        4       | Gold  |       |
-| The Crusher                             |      5      |        2       | Elite |       |
-| Seahawks Color Rush                     |      3      |        5       | Elite |       |
+| The Crusher                             |      5      |        2       | Elite |**Most Valuable Helmet**|
+| Seahawks Color Rush                     |      3      |        5       | Elite |**Most Valuable Jersey**|
 | Lion Tattoo                             |      5      |        4       | Elite |       |
-| Odell Beckham Jr.                       |      5      |        4       | Elite |       |
+| Odell Beckham Jr.                       |      5      |        4       | Elite |**Most Valuable Hero**|
 | Large Sleeve                            |      4      |        4       | Gold  |       |
 | Nike LT Yellow Neon                     |      4      |        3       | Elite |       |
 | Nike LT White Neon                      |      4      |        5       | Gold  |       |
@@ -41,6 +41,6 @@ The score goes from 1 to 5, 1 is bad, 5 is good, Rated in order of the most desi
 | Neon Purple Visor                       |      5      |        2       | Elite |       |
 | Neon Orange Visor                       |      5      |        2       | Elite |       |
 | Tribal Rose Tattoo                      |      4      |        3       | Gold  |       |
-| Half Sleeve                             |      5      |        5       | Silver|       |
+| Half Sleeve                             |      5      |        5       | Silver|**Most Valuable Silver**|
 
 
