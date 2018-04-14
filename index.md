@@ -45,6 +45,8 @@
 
 - **22** Neon Gold Visor [Elite] [Rare]
 
+- **23** Neon Red Visor [Elite] [Rare]
+
 
 
 
