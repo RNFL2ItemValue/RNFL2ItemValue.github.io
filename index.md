@@ -7,7 +7,7 @@
 
 The score goes from 1 to 5, 1 is bad, 5 is good, Rated in order of the most desirable, Neon Rainbow Visor being number 1 for the time being.
 =============================================================
-|                                         |   Rarity    |     Desire     | Base. | Notes |
+|                                         |   Rarity    |     Desire     | Base  | Notes |
 | --------------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | Neon Rainbow Visor                      |      5      |        5       | Elite |**interchangeable**|
 | Beast Mode Blizzard                     |      5      |        5       | Elite |**interchangeable**|
