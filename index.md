@@ -30,6 +30,7 @@ The score goes from 1 to 5, 1 is bad, 5 is good, Rated in order of the most desi
 | Nike LT White Neon                      |      4      |        5       | Gold  |       |
 | Nike Mouth-Piece                        |      5      |        2       | Elite |       |
 | ZOMG Illuminati                         |      5      |        3       | Elite |       |
+| Neon Black Visor                        |      5      |        3       | Elite |       |
 | Neon Gold Visor                         |      5      |        2       | Elite |       |
 | Neon Red Visor                          |      4      |        2       | Elite |       |
 | Tribal Rose Tattoo                      |      4      |        3       | Gold  |       |
