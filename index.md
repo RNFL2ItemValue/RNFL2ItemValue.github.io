@@ -49,7 +49,7 @@
 
 - **24,** Tribal Rose Tattoo [Gold] <font color="red">RARE</font>
 
-- **25,** The Vortex Helmet [Elite] <font color="red">RARE</font>
+- **25,** Half Sleeve / Quarter Sleeve [Silver] [Most Expensive Silver] <font color="red">RARE</font>
 
 
 
