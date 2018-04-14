@@ -7,11 +7,11 @@
 
 - **3,** **RAINBOW! Visor** [Elite] <font color="red">RARE</font>
 
-- **4,** **Bape Mouth-Piece** [Elite] [Most Valuable Mouth-Piece] <font color="red">RARE</font>
+- **4,** **Gronk Spike** [Elite] [Most Valuable Animation] <font color="red">RARE</font>
 
 - **5,** **Wolf Tattoo** [Elite] [Most Valuable Tattoo] <font color="red">RARE</font>
 
-- **6,** Gronk Spike [Elite] [Most Valuable Animation] <font color="red">RARE</font>
+- **6,** Bape Mouth-Piece [Elite] [Most Valuable Mouth-Piece] <font color="red">RARE</font>
 
 - **7,** Full Sleeve [Elite] [Most Valuable Sleeve] <font color="red">RARE</font>
 
