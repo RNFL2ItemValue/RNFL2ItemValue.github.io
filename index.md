@@ -14,4 +14,4 @@ Listed From Most Valuable to least. (Although all items on this list are highly 
 - 8 Nike HT White Neon [Elite] [Most Valuable Cleat.]
 - 9 Neon Yellow Visor [Elite] 
 - 10 Beast Mode [Elite]
-
+- 11 Neone Yellow Mouth-Piece [Gold] [Most Expensive Gold.]
