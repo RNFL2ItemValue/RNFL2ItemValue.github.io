@@ -1,4 +1,4 @@
-```diff
+
 ## RNFL2ItemValue
 **Note - This list doesn't include Developer Items such as Jackvento's Yeezys.**
 Listed From Most Valuable to least. (Although all items on this list are highly sought after)
@@ -14,4 +14,4 @@ Listed From Most Valuable to least. (Although all items on this list are highly 
 - 8 Nike HT White Neon [Elite] [Most Valuable Cleat.]
 - 9 Neon Yellow Visor [Elite] 
 - 10 Beast Mode [Elite]
-```
+
