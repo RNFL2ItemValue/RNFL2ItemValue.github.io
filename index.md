@@ -1,5 +1,5 @@
 
-# Items
+# RNFL2 Item Index
 **Note: All of these Items are highly sought after and can be listed in many different orders, This is just my personal opinion.**
 - **1** Neon Rainbow Visor [Elite] [Most Valuable Visor] [Rare]
 
