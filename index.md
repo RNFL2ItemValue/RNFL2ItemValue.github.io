@@ -17,6 +17,12 @@
 - **14** Seahawks Color Rush [Elite] [Most Valuable Jersey]
 - **15** Lion Tattoo [Elite]
 - **16** OBJ Hero [Elite] [Most Valuable Hero]
+- **17** Large Sleeve [Gold]
+- **18** Nike LT Yellow Neon [Elite]
+- **15** Nike LT White Neon [Gold]
+
+
+
 
 
 
