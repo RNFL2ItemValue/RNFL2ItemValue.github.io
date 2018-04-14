@@ -1,9 +1,9 @@
 
 # RNFL2 Item Index
 **Note: All of these Items are highly sought after and can be listed in many different orders, This is just my personal opinion.**
-- **1** Neon Rainbow Visor [Elite] [Most Valuable Visor] <font color="red">RARE</font>
+- **1** **Neon Rainbow Visor** [Elite] [Most Valuable Visor] <font color="red">RARE</font>
 
-- **2** Blizzard Beast Mode [Elite] [Most Valuable Face] <font color="red">RARE</font>
+- **2** **Blizzard Beast Mode** [Elite] [Most Valuable Face] <font color="red">RARE</font>
 
 - **3** RAINBOW! Visor [Elite] <font color="red">RARE</font>
 
