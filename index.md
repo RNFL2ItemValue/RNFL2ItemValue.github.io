@@ -10,7 +10,7 @@ The score goes from 1 to 5, 1 is bad, 5 is good, Rated in order of the most desi
 |                                         |   Rarity    |     Desire     | Base  | Notes |
 | --------------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
 | Neon Rainbow Visor                      |      5      |        5       | Elite |<font color="red">Most Valuable Item</font>|
-| Beast Mode Blizzard                     |      5      |        5       | Elite |These are <b style='color:red'>red words</b>|
+| Beast Mode Blizzard                     |      5      |        5       | Elite |<span style="color:orange;">Word up</span>|
 | Rainbow! Visor                          |      5      |        4       | Elite |       |
 | Gronk Spike                             |      5      |        5       | Elite |**Most Valuable Animation**|
 | Wolf Tattoo                             |      5      |        4       | Elite |**Most Valuable Tattoo**|
