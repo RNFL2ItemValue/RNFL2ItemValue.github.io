@@ -32,8 +32,15 @@ The score goes from 1 to 5, 1 is bad, 5 is good, Rated in order of the most desi
 | ZOMG Illuminati                         |      5      |        3       | Elite |       |
 | Neon Black Visor                        |      5      |        3       | Elite |       |
 | Neon Gold Visor                         |      5      |        2       | Elite |       |
+| Neon Navy Visor                         |      5      |        2       | Elite |       |
 | Neon Red Visor                          |      4      |        2       | Elite |       |
+| Neon LightPink Visor                    |      5      |        1       | Elite |       |
+| Neon Maroon Visor                       |      5      |        2       | Elite |       |
+| Neon Cyan Visor                         |      5      |        3       | Elite |       |
+| Neon Green Visor                        |      5      |        3       | Elite |       |
+| Neon Purple Visor                       |      5      |        2       | Elite |       |
+| Neon Orange Visor                       |      5      |        2       | Elite |       |
 | Tribal Rose Tattoo                      |      4      |        3       | Gold  |       |
-| Half Sleeve / Quarter Sleeve            |      5      |        5       | Silver|       |
+| Half Sleeve                             |      5      |        5       | Silver|       |
 
 
