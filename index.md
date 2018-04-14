@@ -2,7 +2,7 @@
 Note - This list doesn't include Developer Items such as Jackvento's Yeezys.
 Listed From Most Valuable to least. (Although all items on this list are highly sought after)
 # Items
-
+```diff
 - Neon Rainbow Visor [Elite] [Most Valuable Visor.]
 - Blizzard Beast Mode [Elite] [Most Valuable Face.]
 - RAINBOW! Visor [Elite]
@@ -11,4 +11,4 @@ Listed From Most Valuable to least. (Although all items on this list are highly 
 - Gronk Spike [Elite] [Most Valuable Animation.]
 - Full Sleeve [Elite] [Most Valuable Sleeve.]
 - Nike HT White Neon [Elite] [Most Valuable Cleat.]
-
+```
