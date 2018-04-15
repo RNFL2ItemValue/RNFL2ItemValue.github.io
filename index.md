@@ -3,7 +3,7 @@
 =============
 
 
->Note: All of these Items are highly sought after and can be listed in many different orders, This is just my personal opinion.
+>Note: All of these Items are highly sought after and can be listed in many different orders, This is just my personal opinion. Obviously most Elites are still going to be worth more than MOST Gold, or silver cards.
 
 The score goes from 1 to 5, 1 is bad, 5 is The Best.
 =============================================================
