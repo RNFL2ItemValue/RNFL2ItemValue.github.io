@@ -1,9 +1,8 @@
 
 ﻿RNFL2 ITEM INDEX
 =============
+<font color="green">All of these Items are highly sought after and can be listed in many different orders, This is just my personal opinion.</font>
 
-
-**Note: All of these Items are highly sought after and can be listed in many different orders, This is just my personal opinion.**
 
 The score goes from 1 to 5, 1 is bad, 5 is good, Rated in order of the most desirable, Neon Rainbow Visor being number 1 for the time being.
 =============================================================
