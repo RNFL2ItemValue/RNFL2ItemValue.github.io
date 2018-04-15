@@ -44,5 +44,7 @@ The score goes from 1 to 5, 1 is bad, 5 is good.
 | Tribal Rose Tattoo                      |      4      |        3       | Gold  |       |
 | Half Sleeve                             |      5      |        5       | Silver|**Most Valuable Silver**|
 | IAv_vAI                                 |      1      |        1       | Gold  |**Least Valuable Hero**|
+| CLXR                                    |      3      |        5       | Gold  |       |
+| PlayerHasJoined                         |      3      |        5       | Gold  |       |
 
 
