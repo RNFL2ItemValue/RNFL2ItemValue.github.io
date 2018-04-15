@@ -24,6 +24,8 @@ The score goes from 1 to 5, 1 is bad, 5 is The Best.
 | Dragon Tattoo                           |      4      |        4       | Gold  |       |
 | The Crusher                             |      4      |        2       | Elite |**Most Valuable Helmet**|
 | Seahawks Color Rush                     |      3      |        4       | Elite |**Most Valuable Jersey**|
+| Seahawks '70s Throwback                 |      3      |        3       | Elite |       |
+| Raiders Color Rush                      |      3      |        3       | Elite |       |
 | Lion Tattoo                             |      4      |        4       | Elite |       |
 | Odell Beckham Jr.                       |      5      |        4       | Elite |**Most Valuable Hero**|
 | Large Sleeve                            |      4      |        4       | Gold  |       |
