@@ -5,7 +5,7 @@
 
 >Note: All of these Items are highly sought after and can be listed in many different orders, This is just my personal opinion.
 
-The score goes from 1 to 5, 1 is bad, 5 is good.
+The score goes from 1 to 5, 1 is bad, 5 is The Best.
 =============================================================
 |                                         |   Rarity    |     Desire     | Base  | Notes |
 | --------------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
@@ -38,6 +38,7 @@ The score goes from 1 to 5, 1 is bad, 5 is good.
 | Neon LightPink Visor                    |      4      |        1       | Elite |       |
 | Neon Maroon Visor                       |      4      |        2       | Elite |       |
 | Neon Cyan Visor                         |      4      |        3       | Elite |       |
+| The Crown Tattoo                        |      5      |        1       | Silver|       |
 | Neon Green Visor                        |      4      |        3       | Elite |       |
 | Neon Purple Visor                       |      4      |        2       | Elite |       |
 | Neon Orange Visor                       |      4      |        2       | Elite |       |
