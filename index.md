@@ -44,6 +44,7 @@ The score goes from 1 to 5, 1 is bad, 5 is The Best.
 | Neon Green Visor                        |      4      |        3       | Elite |       |
 | Neon Purple Visor                       |      4      |        2       | Elite |       |
 | Neon Orange Visor                       |      4      |        2       | Elite |       |
+| Synthetic Red                           |      2      |        2       | Gold  |       |
 | Tribal Rose Tattoo                      |      4      |        3       | Gold  |       |
 | Half Sleeve                             |      4      |        4       | Silver|**Most Valuable Silver**|
 | IAv_vAI                                 |      1      |        1       | Gold  |**Least Valuable Hero**|
