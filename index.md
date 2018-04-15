@@ -40,7 +40,7 @@ The score goes from 1 to 5, 1 is bad, 5 is The Best.
 | Neon LightPink Visor                    |      4      |        1       | Elite |       |
 | Neon Maroon Visor                       |      4      |        2       | Elite |       |
 | Neon Cyan Visor                         |      4      |        3       | Elite |       |
-| The Crown Tattoo                        |      5      |        1       | Silver|       |
+| The Crown Tattoo                        |      2      |        4       | Silver|       |
 | Neon Green Visor                        |      4      |        3       | Elite |       |
 | Neon Purple Visor                       |      4      |        2       | Elite |       |
 | Neon Orange Visor                       |      4      |        2       | Elite |       |
