@@ -27,10 +27,19 @@ The score goes from 1 to 5, 1 is bad, 5 is The Best.
 | Seahawks '70s Throwback                 |      3      |        3       | Elite |       |
 | Raiders Color Rush                      |      3      |        3       | Elite |       |
 | Lion Tattoo                             |      4      |        4       | Elite |       |
+| Dab Spam Animation                      |      4      |        4       | Elite |       |
+| LeBron James Animation                  |      4      |        4       | Elite |       |
 | Odell Beckham Jr.                       |      5      |        4       | Elite |**Most Valuable Hero**|
 | Large Sleeve                            |      4      |        4       | Gold  |       |
+| Bling                                   |      4      |        2       | Gold  |       |
+| Ghost                                   |      4      |        1       | Gold  |       |
+| Terminator                              |      3      |        3       | Gold  |       |
 | Nike LT Yellow Neon                     |      4      |        3       | Elite |       |
 | Nike LT White Neon                      |      4      |        5       | Gold  |       |
+| Lava Mouthguard                         |      4      |        2       | Gold  |       |
+| Neon Cyan Mouthguard                    |      4      |        3       | Gold  |       |
+| Neon Red Mouthguard                     |      3      |        4       | Gold  |       |
+| Neon Grey Mouthguard                    |      2      |        2       | Gold  |       |
 | Nike Mouth-Piece                        |      4      |        2       | Elite |       |
 | ZOMG Illuminati                         |      4      |        3       | Elite |       |
 | Neon Black Visor                        |      4      |        3       | Elite |       |
