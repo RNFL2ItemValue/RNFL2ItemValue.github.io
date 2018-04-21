@@ -21,7 +21,8 @@ The score goes from 1 to 5, 1 is bad, 5 is The Best.
 | Neon Yellow Visor                       |      3      |        4       | Elite |       |
 | Beast Mode                              |      5      |        4       | Elite |       |
 | Tim Tebow Celebration                   |      4      |        4       | Elite |       |
-| Neon Yellow Mouth-Piece                 |      4      |        3       | Gold  |**Most Valuable Gold**|
+| Neon White Mouth-Piece                  |      4      |        4       | Gold  |**Most Valuable Gold**|
+| Neon Yellow Mouth-Piece                 |      4      |        3       | Gold  |       |
 | Dragon Tattoo                           |      4      |        4       | Gold  |       |
 | The Crusher                             |      4      |        2       | Elite |**Most Valuable Helmet**|
 | Seahawks Color Rush                     |      3      |        4       | Elite |**Most Valuable Jersey**|
