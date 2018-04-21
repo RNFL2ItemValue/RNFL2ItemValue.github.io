@@ -14,7 +14,8 @@ The score goes from 1 to 5, 1 is bad, 5 is The Best.
 | Rainbow! Visor                          |      5      |        4       | Elite |       |
 | Gronk Spike                             |      5      |        5       | Elite |**Most Valuable Animation**|
 | Wolf Tattoo                             |      4      |        4       | Elite |**Most Valuable Tattoo**|
-| Bape Mouthguard                         |      4      |        4       | Elite |**Most Valuable MouthGuard**|
+| Supre Mouthguard                        |      4      |        5       | Elite |**Most Valuable MouthGuard**|
+| Bape Mouthguard                         |      4      |        3       | Elite |**2nd Most Valuable MouthGuard**|
 | Full Sleeve                             |      4      |        4       | Elite |**Most Valuable Sleeve**|
 | Nike HT White Neon                      |      4      |        4       | Elite |**Most Valuable Cleat**|
 | Neon Yellow Visor                       |      3      |        4       | Elite |       |
