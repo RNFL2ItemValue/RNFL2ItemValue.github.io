@@ -5,12 +5,13 @@
 
 >Note: All of these Items are highly sought after and can be listed in many different orders, This is just my personal opinion. Obviously most Elites are still going to be worth more than MOST Gold, or silver cards.
 
-The score goes from 1 to 5, 1 is bad, 5 is The Best.
+The score goes from 1 to 5, 1 is bad, 5 is The Best. 5+ is outstandingly rare.
 =============================================================
 |                                         |   Rarity    |     Desire     | Base  | Notes |
 | --------------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
-| Neon Rainbow Visor                      |      5      |        5       | Elite |**Most Valuable Item(s)**|
-| Beast Mode Blizzard                     |      5      |        5       | Elite |**Most Valuable Item(s)**|
+| Neon White Visor                        |      5+     |        5       | Elite |**Most Valuable Item(s)**|
+| Neon Rainbow Visor                      |      5      |        5       | Elite |       |
+| Beast Mode Blizzard                     |      5      |        5       | Elite |       |
 | Rainbow! Visor                          |      5      |        4       | Elite |       |
 | Gronk Spike                             |      5      |        5       | Elite |**Most Valuable Animation**|
 | Wolf Tattoo                             |      4      |        4       | Elite |**Most Valuable Tattoo**|
