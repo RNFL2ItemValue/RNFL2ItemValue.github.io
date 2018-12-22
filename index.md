@@ -9,7 +9,7 @@ The score goes from 1 to 5, 1 is bad, 5 is The Best. 5+ is outstandingly rare.
 =============================================================
 |                                         |   Rarity    |     Desire     | Base  | Notes |
 | --------------------------------------- |:-----------:|:--------------:|:-----:|:-----:|
-| Neon White Visor                        |      5+     |        5       | Elite |**Most Valuable Item(s)**|
+| Neon White Visor                        |      5+     |        5       | Elite |**Unknown Value, (Most Valuable item)**|
 | Neon Rainbow Visor                      |      5      |        5       | Elite |       |
 | Beast Mode Blizzard                     |      5      |        5       | Elite |       |
 | Rainbow! Visor                          |      5      |        4       | Elite |       |
